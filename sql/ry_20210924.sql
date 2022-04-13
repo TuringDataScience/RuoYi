@@ -1,4 +1,5 @@
 create database if not exists ry default character set utf8 collate utf8_general_ci;
+use ry;
 
 -- ----------------------------
 -- 1、部门表
